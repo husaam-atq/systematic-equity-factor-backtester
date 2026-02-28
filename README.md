@@ -1,6 +1,6 @@
 # Systematic Equity Factor Backtester
 
-A clean, extensible research project for systematic equity / quantamental roles.
+test project for systematic equity.
 
 ## Features
 - Downloads adjusted prices via Yahoo Finance (yfinance)
