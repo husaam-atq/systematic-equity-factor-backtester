@@ -1,6 +1,8 @@
 # Systematic Equity Factor Backtester
 
-test project for systematic equity.
+A modular research framework for evaluating cross-sectional equity factors and systematic long/short portfolio construction.
+
+This project demonstrates a realistic systematic investing workflow including signal generation, portfolio formation, transaction cost modelling, and performance evaluation.
 
 ## Features
 - Downloads adjusted prices via Yahoo Finance (yfinance)
